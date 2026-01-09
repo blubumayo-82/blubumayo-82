@@ -15,6 +15,10 @@ I’m a **BS Data Science** student at Bataan Peninsula State University. 🎓
 * ⚡ **Fun Fact:** I am interested on other languages such as Korean and Japanese.
 * 📫 **How To Reach Me:** leeontamayo82@gmail.com
 
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 
