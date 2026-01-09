@@ -20,9 +20,7 @@ I’m a **BS Data Science** student at Bataan Peninsula State University. 🎓
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=blubumayo-82&show_icons=true&theme=radical" alt="Leeon's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blubumayo-82&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Leeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 
